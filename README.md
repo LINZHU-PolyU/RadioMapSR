@@ -5,7 +5,7 @@ which has been submitted to IEEE ICC 2026 for possible publication.
 
 ## Code Availability
 
-The code for this project is currently **under review** and will be made publicly available upon acceptance of the paper.
+The paper is currently **under review**. At this stage, we are sharing the detailed implementation of our model architecture. The full codebase will be made publicly available upon acceptance of the paper.
 
 **Status:** Paper submitted
 
